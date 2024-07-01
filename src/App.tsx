@@ -1,7 +1,7 @@
 import React from 'react'
 import Tasklist from './components/Tasklist'
 import CompletedTask from './components/CompletedTask'
-import './App.scss'
+import './App.scss';
 const App:React.FC= () => {
   return (
     <>
